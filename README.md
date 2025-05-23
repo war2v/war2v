@@ -1,10 +1,9 @@
-## Hi there 👋
-
+## Building smart tools with code — Web Dev | SaaS | AI
 My Name is Warren and I am a Computer Scientist interested in Web Development and Data Science
 
 - 🔭 I’m currently working on NeuroSynce, a real time AI-Assisted project management application for small teams.
 - 🌱 I’m currently learning Nextjs and recently used it to build a web app for my personal music and music videos, Check it out [here](https://project-mov.netlify.app/)
-- 👯 I’m looking to collaborate on Games, Web Application, and Youtube!
+- 👯 I’m looking to collaborate on Games, Web Applications, and Youtube!
 - - 📫 How to reach me:
   - Youtube: @more-war
   - Instagram: @movdariu
